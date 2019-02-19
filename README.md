@@ -19,7 +19,7 @@ Guía de la idea principal.
 - AD8232
 - Módulo WIFI ESP8266
 - Plataforma Blynk
-- Smartphone con Android o iOS.
+- Smartphone con Android.
 
 ## Librerias:
 
@@ -32,11 +32,9 @@ Guía de la idea principal.
 
 El AD8232 es un pequeño chip limpio que se utiliza para medir la actividad eléctrica del corazón. Esta actividad eléctrica se puede graficar como un ECG o un electrocardiograma. [La electrocardiografía](http://www.google.com/url?q=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FElectrocardiography&sa=D&sntz=1&usg=AFQjCNFkfQENaNwNmE8lPuLXEWowH2vmDw) se utiliza para ayudar a diagnosticar diversas afecciones cardíacas. [La hoja de datos se puede encontrar aquí.](https://www.google.com/url?q=https%3A%2F%2Fcdn.sparkfun.com%2Fdatasheets%2FSensors%2FBiometric%2FAD8232.pdf&sa=D&sntz=1&usg=AFQjCNHg88_nHpAuxrkuqW3gXtkZb-oQyA)
 
-![alt text](https://lh3.googleusercontent.com/-4P8f28zRm-wsjHxSEAPNS7eP0Ba8V68EvsYifjYN7C4dbzWpafizacCefCAtQjp4nZCZ6F3=w371)
+![alt text](https://github.com/pablolezcano/Mediciones-Biom-dicas-con-la-plataforma-IOT-Blynk/blob/master/imagenes/senbio00405_0322222.jpg?raw=true)
 **Vista superior del AD8232.**
 
-![alt text](https://lh4.googleusercontent.com/yutNu6VZSA2hBRm2IKkf-vmsVopUUKJzbAfvXZCnOUTvh8Ji3wqk_PBN9uLVN1HtD3gmWMhlmm1U-HNfWC5H6NzNCm0W_LIg_n38brV5hC0yLegLmPI=w271)
-**Vista trasera del AD8232.**
 
 Junto a este chip utilizamos el módulo ESP8266, que sirve para conectar nuestros dispositivos a la red WiFi y así interactuar vía IoT (Internet of Things, en español Internet de las cosas).
 
@@ -59,10 +57,10 @@ Para visualizar la señal ECG se utiliza la aplicación Blynk. Esta misma te da 
 
 ## Configuración de Blynk.
 
-![enter image description here](https://lh6.googleusercontent.com/3My3maXM_7AMXw2nQAKwER-6Y1KlSoKkZlLtKDK90eZWj8_1z2ah6uzZXItraKYE6utyCqw=w371)
+![enter image description here](https://github.com/pablolezcano/Mediciones-Biom-dicas-con-la-plataforma-IOT-Blynk/blob/master/imagenes/WhatsApp%20Image%202018-11-25%20at%2020.56.27%20(1).jpeg?raw=true)
 **Elección del widget SuperChart para visualizar la señal.**
 
-![enter image description here](https://lh5.googleusercontent.com/-YSrbkkdYkFQ2fMz7T-pcXZy9BRnFlFYxn7gGvude9T24MXke_lVzxMlj8bgDU---zQK1tLNhw=w371)
+![enter image description here](https://github.com/pablolezcano/Mediciones-Biom-dicas-con-la-plataforma-IOT-Blynk/blob/master/imagenes/WhatsApp%20Image%202018-11-25%20at%2020.56.27.jpeg?raw=true)
 
 **Configuración del widget.**
 
@@ -73,7 +71,7 @@ El mismo lo subí a este **repositorio.**
 
 ## Resultados.
 
-![Señal ECG obtenida por el módulo AD8232.](https://lh4.googleusercontent.com/FabBnyfKNQ7B_kxzghTbYFDijIKXdWiFNflBjt8fMXaunV0UQTjv_awFM9-593JGe8tVfPQqfRvKfo3xwNkY9SK-Vw4zcoZ0cYyOpmI2T_d3S7EKhhg=w673)
+![Señal ECG obtenida por el módulo AD8232.](https://github.com/pablolezcano/Mediciones-Biom-dicas-con-la-plataforma-IOT-Blynk/blob/master/imagenes/WhatsApp%20Image%202018-11-28%20at%2011.50.31%20(4).jpeg?raw=true)
 **Señal ECG obtenida por el módulo AD8232.**
 
 
