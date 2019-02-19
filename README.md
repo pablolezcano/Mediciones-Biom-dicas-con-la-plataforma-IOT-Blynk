@@ -52,7 +52,7 @@ Para visualizar la señal ECG se utiliza la aplicación Blynk. Esta misma te da 
 
 ## Conexión.
 
-![Conexión.](https://lh6.googleusercontent.com/ZK69YQfNjN5SLeswwZd1nDeWO0n0JEMDyHFH02vPiYorCZ_EOO6jMOHn9FlRbGpFU1_ptxMBb998h9daEEU1dD6hMHb8eRJPD-5idG_b06tlhzqLAA=w572)
+![Conexión.](Mediciones-Biom-dicas-con-la-plataforma-IOT-Blynk/imagenes/wemos d1 + ad8232.png)
 
 ![enter image description here](https://lh5.googleusercontent.com/8JK63Phv6ORxzhL06qOYG7Gl3topoBwBHRNrdk0lsqvA8spvTfl9THBynx-LxE7vyDLgIg53=w371)
 **Conexión en protoboard de ESP8266 y AD8232.**
