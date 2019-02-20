@@ -48,14 +48,14 @@ Para visualizar la señal ECG se utiliza la aplicación Blynk. Esta misma te da 
 **Captura de pantalla de un widget de Blynk para ver la señal ECG.**
 
 
-## Conexión.
+## Conexión:
 
 ![Conexión.](https://github.com/pablolezcano/Mediciones-Biom-dicas-con-la-plataforma-IOT-Blynk/blob/master/imagenes/wemos%20d1%20+%20ad8232.png?raw=true)
 
 ![enter image description here](https://lh5.googleusercontent.com/8JK63Phv6ORxzhL06qOYG7Gl3topoBwBHRNrdk0lsqvA8spvTfl9THBynx-LxE7vyDLgIg53=w371)
 **Conexión en protoboard de ESP8266 y AD8232.**
 
-## Configuración de Blynk.
+## Configuración de Blynk:
 
 ![enter image description here](https://github.com/pablolezcano/Mediciones-Biom-dicas-con-la-plataforma-IOT-Blynk/blob/master/imagenes/WhatsApp%20Image%202018-11-25%20at%2020.56.27%20(1).jpeg?raw=true)
 **Elección del widget SuperChart para visualizar la señal.**
@@ -65,20 +65,20 @@ Para visualizar la señal ECG se utiliza la aplicación Blynk. Esta misma te da 
 **Configuración del widget.**
 
 
-## Sketch.
+## Sketch:
 Para poder enlazar el ESP8266 (D1 mini) se hace un sketch en el IDE de Arduino para que pueda mandar los datos a Blynk.
 El mismo lo subí a este **repositorio.** 
 
-## Resultados.
+## Resultados:
 
 ![Señal ECG obtenida por el módulo AD8232.](https://github.com/pablolezcano/Mediciones-Biom-dicas-con-la-plataforma-IOT-Blynk/blob/master/imagenes/WhatsApp%20Image%202018-11-28%20at%2011.50.31%20(4).jpeg?raw=true)
 **Señal ECG obtenida por el módulo AD8232.**
 
-## Preguntas frecuentes
+## Preguntas frecuentes:
 - ¿Por qué no se puede visualizar bien la onda?
 
  Un posible problema podría ser que los parches estén mal conectados, tienes que fijarte que tengan gel en la parte de adentro, ya que el mismo le da continuidad. Si no tiene gel, se le pude aplicar un poco de alcohol en gel sobre la parte a conectar y eso ayuda a darle continuidad al parche.
  Otro problema que suele suceder es que si lo estás alimentando desde una PC de escritorio puede ser le haga interferencia y le produzca corrientes parásitas provenientes de la red. La solución es usar una notebook o netbook utilizando la batería. También se recomienda estar acostado de forma horizontal. (Link adafruit)
 
 
-Fecha de ultima actualización: 13/2/2019
+Fecha de ultima actualización: 19/2/2019
