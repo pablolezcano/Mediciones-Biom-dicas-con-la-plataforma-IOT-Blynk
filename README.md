@@ -74,7 +74,11 @@ El mismo lo subí a este **repositorio.**
 ![Señal ECG obtenida por el módulo AD8232.](https://github.com/pablolezcano/Mediciones-Biom-dicas-con-la-plataforma-IOT-Blynk/blob/master/imagenes/WhatsApp%20Image%202018-11-28%20at%2011.50.31%20(4).jpeg?raw=true)
 **Señal ECG obtenida por el módulo AD8232.**
 
+## Preguntas frecuentes
+- ¿Por qué no se puede visualizar bien la onda?
 
+ Un posible problema podria ser que los parches estén mala conectados, tienes que fijarte que tengan gel en la parte de adentro, ya que el mismo le da continuidad. Si no tiene gel, se le pude aplicar un poco de alcohol en gel sobre la parte a conectar y eso ayuda a darle continuidad al parche.
+ Otro problema que suele suceder es que si lo estás alimentando desde una PC de escritorio puede ser le haga interferencia y le produzca corrientes parásitas provenientes de la red. La solución es usar una notebook o netbook utilizando la batería. También se recomienda estar acostado de forma horizontal. (Link adafruit)
 
 
 Fecha de ultima actualización: 13/2/2019
