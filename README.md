@@ -77,7 +77,7 @@ El mismo lo subí a este **repositorio.**
 ## Preguntas frecuentes
 - ¿Por qué no se puede visualizar bien la onda?
 
- Un posible problema podria ser que los parches estén mala conectados, tienes que fijarte que tengan gel en la parte de adentro, ya que el mismo le da continuidad. Si no tiene gel, se le pude aplicar un poco de alcohol en gel sobre la parte a conectar y eso ayuda a darle continuidad al parche.
+ Un posible problema podría ser que los parches estén mal conectados, tienes que fijarte que tengan gel en la parte de adentro, ya que el mismo le da continuidad. Si no tiene gel, se le pude aplicar un poco de alcohol en gel sobre la parte a conectar y eso ayuda a darle continuidad al parche.
  Otro problema que suele suceder es que si lo estás alimentando desde una PC de escritorio puede ser le haga interferencia y le produzca corrientes parásitas provenientes de la red. La solución es usar una notebook o netbook utilizando la batería. También se recomienda estar acostado de forma horizontal. (Link adafruit)
 
 
