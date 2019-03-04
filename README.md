@@ -11,7 +11,7 @@ Este proyecto experimental sirve para poder comprender las señales ECG y visual
 
 Guía de la idea principal.
 
-![alt text](https://i.ibb.co/SyHTMN8/guia.jpg)
+![alt text](imagenes/guia1.png)
 
 
 ## Componentes utilizados:
