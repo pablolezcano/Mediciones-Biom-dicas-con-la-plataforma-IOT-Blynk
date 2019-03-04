@@ -11,7 +11,7 @@ Este proyecto experimental sirve para poder comprender las señales ECG y visual
 
 Guía de la idea principal.
 
-![alt text](imagenes/guia1.png)
+![alt text](https://github.com/pablolezcano/Mediciones-Biom-dicas-con-la-plataforma-IOT-Blynk/blob/master/imagenes/guia1.jpg)
 
 
 ## Componentes utilizados:
