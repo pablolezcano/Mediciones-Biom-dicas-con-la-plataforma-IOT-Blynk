@@ -40,19 +40,19 @@ Junto a este chip utilizamos el módulo ESP8266, que sirve para conectar nuestro
 
 Para visualizar la señal ECG se utiliza la aplicación Blynk. Esta misma te da la posibilidad de conectar arduino a IoT y generar un interfaz para poder mirar la señal.
 
-![Captura de pantalla del interfaz de Blynk.](https://lh4.googleusercontent.com/QfvGizzcpzJI4Cjlx4MXzsBZHv4XG4Rb0xaQ-FmtfiXJzoYgxZvOPCQVzQ7iCO5l0tvpg9aDlKMl9DNvvRueiHA6uPPp1fymYuZ3SjfzxhL-PRC7ywVn=w271)
+![alt text](https://github.com/pablolezcano/Mediciones-Biom-dicas-con-la-plataforma-IOT-Blynk/blob/master/imagenes/Imagen1.jpg)
 **Captura de pantalla del interfaz de Blynk.**
 
-![Captura de pantalla de un widget de Blynk para ver la señal ECG.](https://lh4.googleusercontent.com/247a-3uPervsP4PMa4Mt1SyWyghgEpH0C7oN1ZWWEDVB_6XFAxxNX9zn0f83ldkz17nr2rlHQ_ai49UFrhKK3IJxRr_EefdvdLWouhOAyWSJSBhB1w=w874)
+![Captura de pantalla de un widget de Blynk para ver la señal ECG.](https://github.com/pablolezcano/Mediciones-Biom-dicas-con-la-plataforma-IOT-Blynk/blob/master/imagenes/Imagen2.jpg)
 
 **Captura de pantalla de un widget de Blynk para ver la señal ECG.**
 
 
 ## Conexión:
 
-![Conexión.](https://github.com/pablolezcano/Mediciones-Biom-dicas-con-la-plataforma-IOT-Blynk/blob/master/imagenes/wemos%20d1%20+%20ad8232.png?raw=true)
+![Conexión.](https://github.com/pablolezcano/Mediciones-Biom-dicas-con-la-plataforma-IOT-Blynk/blob/master/imagenes/diagrama-wemosd1-ad8232.jpg)
 
-![enter image description here](https://lh5.googleusercontent.com/8JK63Phv6ORxzhL06qOYG7Gl3topoBwBHRNrdk0lsqvA8spvTfl9THBynx-LxE7vyDLgIg53=w371)
+![enter image description here](https://github.com/pablolezcano/Mediciones-Biom-dicas-con-la-plataforma-IOT-Blynk/blob/master/imagenes/Imagen7.jpg)
 **Conexión en protoboard de ESP8266 y AD8232.**
 
 ## Configuración de Blynk:
@@ -60,7 +60,7 @@ Para visualizar la señal ECG se utiliza la aplicación Blynk. Esta misma te da 
 ![enter image description here](https://github.com/pablolezcano/Mediciones-Biom-dicas-con-la-plataforma-IOT-Blynk/blob/master/imagenes/WhatsApp%20Image%202018-11-25%20at%2020.56.27%20(1).jpeg?raw=true)
 **Elección del widget SuperChart para visualizar la señal.**
 
-![enter image description here](https://github.com/pablolezcano/Mediciones-Biom-dicas-con-la-plataforma-IOT-Blynk/blob/master/imagenes/WhatsApp%20Image%202018-11-25%20at%2020.56.27.jpeg?raw=true)
+
 
 **Configuración del widget.**
 
@@ -71,8 +71,15 @@ El mismo lo subí a este **repositorio.**
 
 ## Resultados:
 
-![Señal ECG obtenida por el módulo AD8232.](https://github.com/pablolezcano/Mediciones-Biom-dicas-con-la-plataforma-IOT-Blynk/blob/master/imagenes/WhatsApp%20Image%202018-11-28%20at%2011.50.31%20(4).jpeg?raw=true)
+![Señal ECG obtenida por el módulo AD8232.](https://github.com/pablolezcano/Mediciones-Biom-dicas-con-la-plataforma-IOT-Blynk/blob/master/imagenes/Imagen4.jpg)
+
+![Señal ECG obtenida por el módulo AD8232.](https://github.com/pablolezcano/Mediciones-Biom-dicas-con-la-plataforma-IOT-Blynk/blob/master/imagenes/Imagen3.jpg)
+
 **Señal ECG obtenida por el módulo AD8232.**
+
+## Videos:
+
+
 
 ## Preguntas frecuentes:
 - ¿Por qué no se puede visualizar bien la onda?
