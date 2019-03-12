@@ -80,6 +80,7 @@ El mismo lo subí a este **repositorio.**
 ## Videos:
 
 
+[![Watch the video](https://github.com/pablolezcano/Mediciones-Biom-dicas-con-la-plataforma-IOT-Blynk/blob/master/imagenes/reproductor-youtube-diseno-plano_23-2147837761~2.jpg)](https://drive.google.com/file/d/1QLu-7aLiRvvh0Hy2KowzTReqTFM5gfuV/view?usp=drivesdk)
 
 ## Preguntas frecuentes:
 - ¿Por qué no se puede visualizar bien la onda?
