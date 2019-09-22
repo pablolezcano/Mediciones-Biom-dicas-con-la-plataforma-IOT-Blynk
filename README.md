@@ -11,7 +11,7 @@ Este proyecto experimental sirve para poder comprender las señales ECG y visual
 
 Guía de la idea principal.
 
-![alt text](https://github.com/pablolezcano/Mediciones-Biom-dicas-con-la-plataforma-IOT-Blynk/blob/master/imagenes/guia1.jpg)
+![alt text](https://github.com/pablolezcano/Mediciones-Biom-dicas-con-la-plataforma-IOT-Blynk/blob/master/imagenes/guia.jpg)
 
 
 ## Componentes utilizados:
@@ -58,17 +58,17 @@ Para visualizar la señal ECG se utiliza la aplicación Blynk. Esta misma te da 
 
 ## Configuración de Blynk:
 
-![enter image description here](https://github.com/pablolezcano/Mediciones-Biom-dicas-con-la-plataforma-IOT-Blynk/blob/master/imagenes/WhatsApp%20Image%202018-11-25%20at%2020.56.27%20(1)
+![enter image description here](https://github.com/pablolezcano/Mediciones-Biom-dicas-con-la-plataforma-IOT-Blynk/blob/master/imagenes/Imagen1.jpg)
 **Elección del widget SuperChart para visualizar la señal.**
 
-
+![configuracion](https://github.com/pablolezcano/Mediciones-Biom-dicas-con-la-plataforma-IOT-Blynk/blob/master/imagenes/Imagen2.jpg)
 
 **Configuración del widget.**
 
 
 ## Sketch:
 Para poder enlazar el ESP8266 (D1 mini) se hace un sketch en el IDE de Arduino para que pueda mandar los datos a Blynk.
-El mismo lo subí a este **repositorio.**
+El mismo lo subí a este **repositorio.** 
 
 ## Resultados:
 
@@ -90,4 +90,4 @@ El mismo lo subí a este **repositorio.**
  Otro problema que suele suceder es que si lo estás alimentando desde una PC de escritorio puede ser le haga interferencia y le produzca corrientes parásitas provenientes de la red. La solución es usar una notebook o netbook utilizando la batería. También se recomienda estar acostado de forma horizontal. (Link adafruit)
 
 
-Fecha de ultima actualización: 19/2/2019
+
