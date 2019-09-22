@@ -32,7 +32,7 @@ Guía de la idea principal.
 
 El AD8232 es un pequeño chip limpio que se utiliza para medir la actividad eléctrica del corazón. Esta actividad eléctrica se puede graficar como un ECG o un electrocardiograma. [La electrocardiografía](http://www.google.com/url?q=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FElectrocardiography&sa=D&sntz=1&usg=AFQjCNFkfQENaNwNmE8lPuLXEWowH2vmDw) se utiliza para ayudar a diagnosticar diversas afecciones cardíacas. [La hoja de datos se puede encontrar aquí.](https://www.google.com/url?q=https%3A%2F%2Fcdn.sparkfun.com%2Fdatasheets%2FSensors%2FBiometric%2FAD8232.pdf&sa=D&sntz=1&usg=AFQjCNHg88_nHpAuxrkuqW3gXtkZb-oQyA)
 
-![alt text](https://github.com/pablolezcano/Mediciones-Biom-dicas-con-la-plataforma-IOT-Blynk/blob/master/imagenes/senbio00405_0322222.jpg)
+![vista superior](https://github.com/pablolezcano/Mediciones-Biom-dicas-con-la-plataforma-IOT-Blynk/blob/master/imagenes/senbio00405_0322222.jpg)
 
 **Vista superior del AD8232.**
 
@@ -41,7 +41,7 @@ Junto a este chip utilizamos el módulo ESP8266, que sirve para conectar nuestro
 
 Para visualizar la señal ECG se utiliza la aplicación Blynk. Esta misma te da la posibilidad de conectar arduino a IoT y generar un interfaz para poder mirar la señal.
 
-![alt text](https://github.com/pablolezcano/Mediciones-Biom-dicas-con-la-plataforma-IOT-Blynk/blob/master/imagenes/Imagen1.jpg)
+![Captura](https://github.com/pablolezcano/Mediciones-Biom-dicas-con-la-plataforma-IOT-Blynk/blob/master/imagenes/Imagen1.jpg)
 **Captura de pantalla del interfaz de Blynk.**
 
 ![Captura de pantalla de un widget de Blynk para ver la señal ECG.](https://github.com/pablolezcano/Mediciones-Biom-dicas-con-la-plataforma-IOT-Blynk/blob/master/imagenes/Imagen2.jpg)
@@ -58,7 +58,7 @@ Para visualizar la señal ECG se utiliza la aplicación Blynk. Esta misma te da 
 
 ## Configuración de Blynk:
 
-![enter image description here](https://github.com/pablolezcano/Mediciones-Biom-dicas-con-la-plataforma-IOT-Blynk/blob/master/imagenes/WhatsApp%20Image%202018-11-25%20at%2020.56.27%20(1).jpeg?raw=true)
+![enter image description here](https://github.com/pablolezcano/Mediciones-Biom-dicas-con-la-plataforma-IOT-Blynk/blob/master/imagenes/WhatsApp%20Image%202018-11-25%20at%2020.56.27%20(1)
 **Elección del widget SuperChart para visualizar la señal.**
 
 
@@ -68,7 +68,7 @@ Para visualizar la señal ECG se utiliza la aplicación Blynk. Esta misma te da 
 
 ## Sketch:
 Para poder enlazar el ESP8266 (D1 mini) se hace un sketch en el IDE de Arduino para que pueda mandar los datos a Blynk.
-El mismo lo subí a este **repositorio.** 
+El mismo lo subí a este **repositorio.**
 
 ## Resultados:
 
